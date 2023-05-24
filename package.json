@@ -1,21 +1,21 @@
 {
-  "name": "goit-js-hw-08",
+  "name": "hw8",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/ASekretarski/goit-js-hw-08.git",
+  "homepage": "https://github.com/ASekretarski/hw8.git",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /hw8/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ASekretarski/goit-js-hw-08.git"
+    "url": "git+https://github.com/ASekretarski/hw8.git"
   },
   "keywords": [],
   "author": "Artur Sekretarski <artur.sekretarski@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ASekretarski/goit-js-hw-08.git"
+    "url": "https://github.com/ASekretarski/hw8.git"
   },
   "dependencies": {
     "@vimeo/player": "^2.19.0",
